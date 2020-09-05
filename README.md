@@ -2,7 +2,7 @@
   <img width="128" height="128" src="https://github.com/danesi/GetPointsTwitch/blob/master/images/icon128.png">
 </p>
 
-# <p align="center"> GetPointsTwitch </p>
+# <p align="center"> Get Points Twitch </p>
 
 ### Descripion
 
