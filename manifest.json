@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Get Points Twitch",
+  "description": "responsible for collecting the bonus points available on twitch channels",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.twitch.tv/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  }
+}
