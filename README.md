@@ -6,7 +6,7 @@
 
 ### Descripion
 
-  - Extension responsible for collecting the bonus points generated on the twitch channels
+  - Extension for Chrome responsible for collecting the bonus points generated on the twitch channels
   
 ### Installation
 
